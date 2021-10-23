@@ -1,4 +1,4 @@
-# Youtube Dl bot 😉
+# YouTube Downloader bot 😉
 ## Prerequisite
     ffmpeg
   
@@ -16,4 +16,4 @@
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LakshanRukantha/Youtube-Downloader-Bot/tree/master)
